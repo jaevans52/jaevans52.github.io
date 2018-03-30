@@ -1,0 +1,40 @@
+
+/* Font */
+
+/* google font all font */
+body {
+  font-family: Quicksand;
+}
+
+/* Responsive Sizing */
+
+
+iframe, object, embed {
+  max-width: 100%;
+}
+
+.footer {
+
+  text-align:center;
+  padding: 10px 0;
+	width:auto;
+	margin: 0 auto;
+	background-color: #047CFC;
+  position: relative;
+}
+
+
+.row { 
+  display: flex; 
+  
+  justify-content: space-around; 
+  flex: 1; 
+}
+
+.thank-you-class {
+  text-align:center;
+  padding: 10px 100px;
+	background-color: #047CFC;
+  position: relative;
+  text:white
+}
